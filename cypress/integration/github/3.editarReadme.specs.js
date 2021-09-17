@@ -1,6 +1,6 @@
 const logarGithub = require('../github/util/logarGithub')
 
-it('Editar/salvar arquivo readme', () => {
+it('Editar/salvar readme', () => {
     
     logarGithub()
 
