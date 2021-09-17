@@ -11,7 +11,7 @@ class GithubElements {
     mensagemAlertaVerificação =() => {return '.h1'}//verificação
     mensagemAlertaCódigo =() => {return'#launch-code-description'}//verificação
 
-    criarRepositorio =() => {return '#repos-container > div > .btn > :nth-child(1) > [style="vertical-align: inherit;"]'}
+    //criarRepositorio =() => {return '#repos-container > div > .btn > :nth-child(1) > [style="vertical-align: inherit;"]'}
     
     
 }
